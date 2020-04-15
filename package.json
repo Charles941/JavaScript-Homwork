@@ -1,7 +1,7 @@
 {
-  "name": "savvy-starter",
+  "name": "savvy-homework",
   "version": "1.0.0",
-  "description": "",
+  "description": "starter repo for Savvy Coders Homework folders & files",
   "main": "index.js",
   "scripts": {
     "serve": "browser-sync start --server --files '*.html, *.css, *.js'"
