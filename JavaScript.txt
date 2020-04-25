@@ -1,8 +1,0 @@
-let pizzaPlace = "Joe's Pizza";
-
-let numberOfToppings = 5;
-
-console.log("I hate," ${pizzaPlace} "they sell only" ${numberOfToppings} "toppings there");
-
-if(numberOfToppings <= 10) true "Quality, not quantity":"A whole lot of pizza.";
-
